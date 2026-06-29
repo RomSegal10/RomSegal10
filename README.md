@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rom Segal</h1>
-<h3 align="center">I am a 16 year old high school student from "Atid Madaym For Leadership And Excellence,Lod. I have been programming for the past 4 years. I am studying CS, Cybersecurity, and chemistry.</h3>
+<h3 align="center">I am a 16 year old high school student from "Atid Madaym For Leadership And Excellence,Lod". I have been programming for the past 4 years. I am studying CS, Cybersecurity, and chemistry.</h3>
 
 - 🌱 I’m currently learning **Assembly 8086, Ruby**
 
