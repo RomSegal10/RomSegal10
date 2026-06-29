@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/רום סגל" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="רום סגל" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d7%a8%d7%95%d7%9d-%d7%a1%d7%92%d7%9c-15ab1a41a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d7%a8%d7%95%d7%9d-%d7%a1%d7%92%d7%9c-15ab1a41a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/debilingo music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="debilingo music" height="30" width="40" /></a>
 <a href="https://instagram.com/rom_2010.seg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rom_2010.seg" height="30" width="40" /></a>
 </p>
