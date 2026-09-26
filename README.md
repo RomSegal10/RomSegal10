@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Rom Segal</h1>
-<h3 align="center">I am a 16 year old high school student from "Atid Madaym For Leadership And Excellence,Lod". I have been programming for the past 4 years. I am studying CS, Cybersecurity, and chemistry.</h3>
+<h3 align="center">I am a 16-year-old high school student from "Atid Madaym For Leadership And Excellence, Lod". I have been programming for the past 5 years. I am studying CS, Cybersecurity, and chemistry.</h3>
 
 - 🌱 I’m currently learning **Assembly 8086, Ruby**
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RomSegal10/](https://github.com/RomSegal10/)
 
-- 💬 Ask me about **Java,C,CPP,Python,etc**
+- 💬 Ask me about **Java, C, C++, Python, etc. **
 
-- 📫 How to reach me **debilingomusic@gmail.com**
+- 📫 How to reach me: **linksh789@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
